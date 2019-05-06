@@ -1,0 +1,77 @@
+.Row {
+
+  justify-content: center;
+
+}
+
+.Row1 {
+
+  justify-content: center;
+  margin-top: 130px;
+
+}
+
+.NavBrand {
+
+    text-align: center;
+    width: 100%;
+
+}
+
+.text, .title{
+
+  text-align: center;
+
+}
+
+.formm{
+  text-align: center;
+  border: 2px solid;
+  border-radius: 12px;
+}
+
+.formmm{
+
+  text-align: center;
+  margin-top: 0px;
+  width: 254px;
+  margin: 0 auto;
+  
+  /*margin-left: 600px;*/
+
+}
+.editForm{
+
+  position: absolute;
+  top: 61.5%;
+  left:85%;
+  transform: translate(-40%,-50%);
+  text-align: center;
+  border: 2px solid;
+  border-radius: 12px;
+
+}
+
+.textInput{
+
+  margin-top: 15px;
+
+}
+
+.deleteButton{
+
+  margin-left: 52px;
+
+}
+
+/*.MainDiv{
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  border: 1px solid orange;
+
+  background-image: url("main.jpg");
+  background-size:  cover;                   
+  background-repeat:   no-repeat;
+  background-position: center center;
+  background: 1;
+}*/
